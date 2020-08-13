@@ -11,7 +11,8 @@ class App extends React.Component {
           <h1>NoticeBoard</h1>
         </nav>
         <main>
-        <Noticeboard/>
+        <Noticeboard></Noticeboard>           
+          
         </main>
       </>
     );
